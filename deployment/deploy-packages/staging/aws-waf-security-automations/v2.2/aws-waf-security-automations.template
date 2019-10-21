@@ -246,7 +246,7 @@ Conditions:
 Mappings:
     SourceCode:
         General:
-            S3Bucket: 'geocomm-waf'
+            S3Bucket: 'gc-staging-waf'
             KeyPrefix: "aws-waf-security-automations/v2.2"
     Solution:
         Data:
